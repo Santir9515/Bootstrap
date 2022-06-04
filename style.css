@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;1,100&display=swap');
+
+/* Comienza los estilos */
+.Fondo_pantalla{
+    background-color: #903ddd;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+
+/* Header */
+.LogoHeader{
+    height: 100px;
+    width: 100px;
+}
+.Carrito{
+    height: 30px;
+    width: 30px;
+}
+.img_redes{
+    height: 30px;
+    width: 30px;
+}
+
+
