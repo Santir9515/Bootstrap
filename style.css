@@ -9,6 +9,11 @@
 
 
 /* Header */
+.Titulo__principal{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
 .LogoHeader{
     height: 100px;
     width: 100px;
@@ -21,5 +26,24 @@
     height: 30px;
     width: 30px;
 }
-
-
+/* Main */
+.Subtitulos__main{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+    font-weight: bold;
+}
+.texto_mapa{
+    padding-left: 2rem;
+}
+.Imagen_contactos{
+    display: flex;
+    justify-content: center;
+}
+/* Footer */
+.footer{
+    display: flex;
+    justify-content: center;
+    font-size: 8px;
+}
